@@ -19,7 +19,7 @@
 - 2023/04 ~ ing) 나만의 와인을 찾는 여행, Winey
 - 2023/01 ~ 2023/03) 현장 엔지니어 업무 관리 앱, FieldMate ( [App Store](https://apps.apple.com/kr/app/fieldmate/id6446427396), [Google Play](https://play.google.com/store/apps/details?id=com.hana.fieldmate) )
 - 2022/07 ~ 2023/11) 사회초년생을 위한 자취방 리뷰 서비스, 이룸 ( [E-Room](https://www.e-room.app/) ) 
-- 2021.07 ~ 2022.02) 공군해커톤 평가체계
+- 2021.07 ~ 2022.02) 공군 해커톤 진행과정 전산화, [공군해커톤 평가체계](https://hackathon.airforce.mil.kr/alr20/main)
 - 2021.05 ~ 2021.07) 공군사관학교 입학안내 [홈페이지](https://rokaf.airforce.mil.kr/sites/afaadmission/index.do)
 
 
