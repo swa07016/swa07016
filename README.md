@@ -1,6 +1,7 @@
 ### 🧑🏻 Introduction
 안녕하세요, 아이디에이션을 좋아하는 개발자 정성훈입니다.<br/>B2C 프로덕트에 관심이 많아 여러 사이드 프로젝트에서 백엔드 개발자로 참여중이며, <br/>서비스를 내보내보고 사용자의 피드백을 얻고 개선하는 과정을 좋아합니다. <br/>언제나 열심히 참여하겠습니다! 감사합니다.🔥
 
+
 ### 👨🏻‍💻 Skills
 - <b>Server</b> : Java, SpringBoot, Spring MVC, JPA, Gradle
 - <b>DevOps</b> : AWS, Github Actions, MySQL, Tomcat
@@ -11,6 +12,7 @@
 - 2023/08 ~ ing) <b>엔에스원소프트(주) 솔루션사업부</b><br/>공공기관 프로젝트(ex. 해양경찰청)를 개발하고 있습니다. 
 - 2020/10 ~ 2022/07) <b>공군 정보체계관리단</b><br/>SW개발병으로 복무하면서 Java, SpringBoot 스택과 군내 CMS 솔루션을 기반으로 공군 인터넷 웹 체계 신규 개발 및 유지보수 업무를 수행했습니다. 
 
+
 ### 💾 Projects
 - 2023/09 ~ ing) AI 뉴스 리더, Briefing ( [App Store](https://apps.apple.com/kr/app/briefing/id6463561633), [Google Play](https://play.google.com/store/apps/details?id=com.dev.briefing) )
 - 2023/08 ~ 2023/12) 해양경찰청 Smart Service 관리자 웹 & 안드로이드 앱
@@ -20,10 +22,12 @@
 - 2021.07 ~ 2022.02) 공군해커톤 평가체계
 - 2021.05 ~ 2021.07) 공군사관학교 입학안내 [홈페이지](https://rokaf.airforce.mil.kr/sites/afaadmission/index.do)
 
+
 ### 🌐 Contributions
 - 2022/07 ~ 2022/10) LG전자 FOSSLight 오픈소스 프로젝트 기여 ( [FOSSLight](https://github.com/fosslight/fosslight) )
     - Self-Check List > Add > Version field XSS 취약점 발견 및 해결 ( [Pull Request #588](https://github.com/fosslight/fosslight/pull/588) )
     - FOSSLight Review Report 템플릿 개발 ( [Pull Request #751](https://github.com/fosslight/fosslight/pull/751) )
+
 
 ### 🗓️ Activities
 - 2024/01 ~ ing) 개발자와 디자이너를 위한 IT 동아리, [Nexters](https://teamnexters.com/) 24기 백엔드 개발자
