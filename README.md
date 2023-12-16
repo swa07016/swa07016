@@ -1,14 +1,31 @@
-# 정성훈 *SeongHoon Jeong*
-👩‍💻 Server Developer  
-👩‍🎓 Kyunghee Univ. Computer Engineering  
-  
+### 🧑🏻 Introduction
+안녕하세요, 아이디에이션을 좋아하는 개발자 정성훈입니다.<br/>B2C 프로덕트에 관심이 많아 여러 사이드 프로젝트에서 백엔드 개발자로 참여중이며, <br/>서비스를 내보내보고 사용자의 피드백을 얻고 개선하는 과정을 좋아합니다. <br/>언제나 열심히 참여하겠습니다! 감사합니다.🔥
 
-<a href="https://www.java.com/ko/"><img src="https://img.shields.io/badge/Java-F58219?style=flat-square&logo=Java&logoColor=white"/></a>
-<a href="https://spring.io/projects/spring-boot"><img src="https://img.shields.io/badge/SpringBoot-6AAE3D?style=flat-square&logo=SpringBoot&logoColor=white"/></a>
-<a href="https://spring.io/projects/spring-data-jpa"><img src="https://img.shields.io/badge/Spring Data JPA-6AAE3D?style=flat-square&logo=&logoColor=white"/></a>
-<a href="https://www.mysql.com/"><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>
-<a href="https://gradle.org/"><img src="https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=Gradle&logoColor=white"/></a>
-<a href="https://aws.amazon.com/ko/?nc2=h_lg"><img src="https://img.shields.io/badge/AWS-F89501?style=flat-square&logo=Amazon AWS&logoColor=white"/></a>
-<a href="https://tomcat.apache.org/"><img src="https://img.shields.io/badge/Tomcat-CC9F1A?style=flat-square&logo=Apache Tomcat&logoColor=white"/></a>
+### 👨🏻‍💻 Skills
+- <b>Server</b> : Java, SpringBoot, Spring MVC, JPA, Gradle
+- <b>DevOps</b> : AWS, Github Actions, MySQL, Tomcat
+- <b>Client</b> : Typescript, React, RN, MobX-State-Tree, Yarn
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=swa07016)](https://solved.ac/swa07016)<br/>
+
+### 🧑🏻‍💼 Work Experiences
+- 2023/08 ~ ing) <b>엔에스원소프트(주) 솔루션사업부</b><br/>공공기관 프로젝트(ex. 해양경찰청)를 개발하고 있습니다. 
+- 2020/10 ~ 2022/07) <b>공군 정보체계관리단</b><br/>SW개발병으로 복무하면서 Java, SpringBoot 스택과 군내 CMS 솔루션을 기반으로 공군 인터넷 웹 체계 신규 개발 및 유지보수 업무를 수행했습니다. 
+
+### 💾 Projects
+- 2023/09 ~ ing) AI 뉴스 리더, Briefing ( [App Store](https://apps.apple.com/kr/app/briefing/id6463561633), [Google Play](https://play.google.com/store/apps/details?id=com.dev.briefing) )
+- 2023/08 ~ 2023/12) 해양경찰청 Smart Service 관리자 웹 & 안드로이드 앱
+- 2023/04 ~ ing) 나만의 와인을 찾는 여행, Winey
+- 2023/01 ~ 2023/03) 현장 엔지니어 업무 관리 앱, FieldMate ( [App Store](https://apps.apple.com/kr/app/fieldmate/id6446427396), [Google Play](https://play.google.com/store/apps/details?id=com.hana.fieldmate) )
+- 2022/07 ~ 2023/11) 사회초년생을 위한 자취방 리뷰 서비스, 이룸 ( [E-Room](https://www.e-room.app/) ) 
+- 2021.07 ~ 2022.02) 공군해커톤 평가체계
+- 2021.05 ~ 2021.07) 공군사관학교 입학안내 [홈페이지](https://rokaf.airforce.mil.kr/sites/afaadmission/index.do)
+
+### 🌐 Contributions
+- 2022/07 ~ 2022/10) LG전자 FOSSLight 오픈소스 프로젝트 기여 ( [FOSSLight](https://github.com/fosslight/fosslight) )
+    - Self-Check List > Add > Version field XSS 취약점 발견 및 해결 ( [Pull Request #588](https://github.com/fosslight/fosslight/pull/588) )
+    - FOSSLight Review Report 템플릿 개발 ( [Pull Request #751](https://github.com/fosslight/fosslight/pull/751) )
+
+### 🗓️ Activities
+- 2024/01 ~ ing) 개발자와 디자이너를 위한 IT 동아리, [Nexters](https://teamnexters.com/) 24기 백엔드 개발자
+- 2023/01 ~ 2023/03) 수익형 앱 런칭 동아리, [CMC](https://cmc.makeus.in/) 12기 서버 챌린저
+- 2020/04 ~ 2020/09) IT 연합동아리 [멋쟁이사자처럼](https://www.likelion.net/) at 경희대 운영진
