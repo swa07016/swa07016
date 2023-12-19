@@ -5,7 +5,7 @@
 ### 👨🏻‍💻 Skills
 - <b>Server</b> : Java, SpringBoot, Spring MVC, JPA, Gradle
 - <b>DevOps</b> : AWS, Github Actions, MySQL, Tomcat
-- <b>Client</b> : Typescript, React, RN, MobX-State-Tree, Yarn
+- <b>Client</b> : Typescript, React, React Native, MobX-State-Tree, Yarn
 
 
 ### 🧑🏻‍💼 Work Experiences
