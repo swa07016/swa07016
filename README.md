@@ -27,7 +27,7 @@
 - 2024/02) Xtreme1 오픈소스 기여
     - Refactor: Move RunRecordQueryBO from enums to entity package ( [Pull Request #201](https://github.com/xtreme1-io/xtreme1/pull/201) )
     - Refactor: Reorder modifiers in BaseExportController ( [Pull Request #202](https://github.com/xtreme1-io/xtreme1/pull/202) )
-- 2022/07 ~ 2022/10) LG전자 FOSSLight 오픈소스 프로젝트 기여
+- 2022/07 ~ 2022/10) LG전자 FOSSLight 오픈소스 기여
     - XSS prevention with jstl ( [Pull Request #588](https://github.com/fosslight/fosslight/pull/588) )
     - Upload review report html template ( [Pull Request #751](https://github.com/fosslight/fosslight/pull/751) )
 
