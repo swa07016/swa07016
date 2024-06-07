@@ -27,7 +27,7 @@
 ### **About Me**
 
 - 👨🏽‍💻 [매일 글귀](https://play.google.com/store/apps/details?id=com.silvertown.android.dailyphrase&hl=ko-KR) 서비스를 만들고 있습니다 😄
-- 🌱 Computer Science를 공부하고 있습니다
+- 🌱 Computer Science를 공부하고 있습니다 🧑🏻‍💻
 - 💬 대화를 나누고 싶다면 언제든지 연락주세요!
 - 📫 E-Mail : [swa07016@naver.com](mailto:swa07016@naver.com)
 - 📝 Blog : [dev-peter.online](https://dev-peter.online/)
