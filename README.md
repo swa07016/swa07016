@@ -48,8 +48,8 @@
 
 ## 📈 Stats
 <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=swa07016&theme=dark" alt="swa07016's GitHub Streak" />
-    <img src="https://github-readme-stats.vercel.app/api?username=swa07016&show_icons=true&theme=gotham" alt="swa07016's GitHub Stats" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=swa07016&theme=dark" alt="swa07016's GitHub Streak" width="450" />
+    <img src="https://github-readme-stats.vercel.app/api?username=swa07016&show_icons=true&theme=gotham" alt="swa07016's GitHub Stats" width="450" />
 </p>
 
 
