@@ -22,7 +22,7 @@
 
 안녕하세요, **개발자 정성훈**입니다. **NSonesoft**에서 소프트웨어 엔지니어로 일하고 있으며, 주로 공공기관에 제공하는 솔루션들의 백엔드 시스템을 만들고 있습니다. 프로그래밍 외에는 웨이트 트레이닝을 즐기며 시간을 보냅니다.
 
-<img align="right" alt="GIF" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHg2NnhkMzZ1NjFlMnlqNTd3MDA2b2k5bDhsNW8yMGkxdDB6enQ1eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif" width="500" />
+<img align="right" alt="GIF" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHg2NnhkMzZ1NjFlMnlqNTd3MDA2b2k5bDhsNW8yMGkxdDB6enQ1eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif" width="450" />
 
 ### **About Me**
 
