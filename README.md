@@ -1,38 +1,56 @@
-### 🧑🏻 Introduction
-안녕하세요, 아이디에이션을 좋아하는 개발자 정성훈입니다.<br/>B2C 프로덕트에 관심이 많아 여러 사이드 프로젝트에서 백엔드 개발자로 참여중이며, <br/>서비스를 내보내보고 사용자의 피드백을 얻고 개선하는 과정을 좋아합니다. <br/>언제나 열심히 참여하겠습니다! 감사합니다.🔥
+# 🌟 Welcome to SEONGHOON's GitHub! 🌠
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=swa07016&color=blueviolet" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/swa07016?style=social" alt="GitHub Followers"/>
+</div>
+
+---
+
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hello!
+
+<a href="https://www.linkedin.com/in/seong-hoon-jeong">
+  <img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://www.instagram.com/sunghoon0725">
+  <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+<a href="https://github.com/swa07016">
+  <img align="left" alt="GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
+<br><br>
+
+안녕하세요, **개발자 정성훈**입니다. **NSonesoft**에서 소프트웨어 엔지니어로 일하고 있으며, 주로 공공기관에 제공하는 솔루션들의 백엔드 시스템을 만들고 있습니다. 프로그래밍 외에는 웨이트 트레이닝을 즐기며 시간을 보냅니다.
+
+<img align="right" alt="GIF" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHg2NnhkMzZ1NjFlMnlqNTd3MDA2b2k5bDhsNW8yMGkxdDB6enQ1eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif" width="500" />
+
+### **About Me**
+
+- 👨🏽‍💻 [매일 글귀](https://play.google.com/store/apps/details?id=com.silvertown.android.dailyphrase&hl=ko-KR) 서비스를 만들고 있습니다 😄
+- 🌱 Computer Science를 공부하고 있습니다
+- 💬 대화를 나누고 싶다면 언제든지 연락주세요!
+- 📫 E-Mail : [swa07016@naver.com](mailto:swa07016@naver.com)
+- 📝 Blog : [dev-peter.online](https://dev-peter.online/)
+
+### **Languages and Tools**  
+
+<p>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/java/java.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/spring-boot/spring-boot.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/gradle/gradle.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/mysql/mysql.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/linux/linux.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/docker/docker.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/aws/aws.png"></code>
+</p>
+
+---
+
+## 📈 Stats
+<p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=swa07016&theme=dark" alt="swa07016's GitHub Streak" />
+    <img src="https://github-readme-stats.vercel.app/api?username=swa07016&show_icons=true&theme=gotham" alt="swa07016's GitHub Stats" />
+</p>
 
 
-### 👨🏻‍💻 Skills
-- <b>Server</b> : Java, SpringBoot, Spring MVC, JPA, Gradle
-- <b>DevOps</b> : AWS, Github Actions, MySQL, Tomcat
-- <b>Client</b> : Typescript, React, React Native, MobX-State-Tree, Yarn
-
-
-### 🧑🏻‍💼 Work Experiences
-- 2023/08 ~ ing) <b>엔에스원소프트(주) 솔루션사업부</b><br/>공공기관 프로젝트(ex. 해양경찰청)를 개발하고 있습니다. 
-- 2020/10 ~ 2022/07) <b>공군 정보체계관리단 체계개발대</b><br/>SW개발병으로 복무하면서 Java, SpringBoot 스택과 군내 CMS 솔루션을 기반으로 공군 인터넷 웹 체계 신규 개발 및 유지보수 업무를 수행했습니다. 
-
-
-### 💾 Projects
-- 2023/09 ~ ing) AI 뉴스 리더, Briefing
-- 2023/08 ~ 2023/12) 해양경찰청 Smart Service 관리자 웹 & 안드로이드 앱
-- 2023/04 ~ ing) 나만의 와인을 찾는 여행, Winey
-- 2023/01 ~ 2023/03) 현장 엔지니어 업무 관리 앱, FieldMate
-- 2022/07 ~ 2023/11) 사회초년생을 위한 자취방 리뷰 서비스, 이룸
-- 2021.07 ~ 2022.02) 공군 해커톤 진행과정 전산화, 공군해커톤 평가체계
-- 2021.05 ~ 2021.07) 공군사관학교 입학안내 홈페이지
-
-
-### 🌐 Contributions
-- 2024/02) Xtreme1 오픈소스 기여
-    - Refactor: Move RunRecordQueryBO from enums to entity package ( [Pull Request #201](https://github.com/xtreme1-io/xtreme1/pull/201) )
-    - Refactor: Reorder modifiers in BaseExportController ( [Pull Request #202](https://github.com/xtreme1-io/xtreme1/pull/202) )
-- 2022/07 ~ 2022/10) LG전자 FOSSLight 오픈소스 기여
-    - XSS prevention with jstl ( [Pull Request #588](https://github.com/fosslight/fosslight/pull/588) )
-    - Upload review report html template ( [Pull Request #751](https://github.com/fosslight/fosslight/pull/751) )
-
-
-### 🗓️ Activities
-- 2024/01 ~ ing) 개발자와 디자이너를 위한 IT 동아리, [Nexters](https://teamnexters.com/) 24기 백엔드 개발자
-- 2023/01 ~ 2023/03) 수익형 앱 런칭 동아리, [CMC](https://cmc.makeus.in/) 12기 서버 챌린저
-- 2020/04 ~ 2020/09) IT 연합동아리 [멋쟁이사자처럼](https://www.likelion.net/) at 경희대 운영진
+---
